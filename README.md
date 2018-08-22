@@ -1,7 +1,5 @@
 # README - Project 7 for Udacity Front End Nanodegree
 
-**Creator**: Michele "*Dev_Mikko*" De Palma
-
 **What is that?**
 
 It is a single page web app created with ReactJS. You can see a books list and you can organize it. You can search a book using the title or the authors, also.
@@ -49,7 +47,7 @@ The following terms are the only ones that you can search:
 
 **Credits**:
 
-- Michele "*Dev_Mikko*" De Palma
+- Luca Casamassima
 - Udacity for the base code of the project
 - NodeJS
 - Facebook for ReactJS
