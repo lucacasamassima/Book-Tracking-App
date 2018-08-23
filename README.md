@@ -1,4 +1,4 @@
-# README - Project 7 for Udacity Front End Nanodegree
+# Book-Tracking-App Project
 
 **What is that?**
 
