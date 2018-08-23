@@ -50,5 +50,3 @@ The following terms are the only ones that you can search:
 - Luca Casamassima
 - Udacity for the base code of the project
 - NodeJS
-- Facebook for ReactJS
-- All creators of implemented components (react-router-dom, prop-types, sort)
